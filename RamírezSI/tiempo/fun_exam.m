@@ -1,0 +1,4 @@
+function[y]=fun_exam_IRS(x)                                                                                                                                 
+%Este programa contiene la parte correspondiente a "a(x)"
+%Ramírez Salazar Isaura, 2019-2, Martes
+y=(1.127*(75000*0.015))/(500*10)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
